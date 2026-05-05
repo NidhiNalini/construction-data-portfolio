@@ -1,4 +1,4 @@
-# Project 01 — Alberta Construction Projects EDA
+# Alberta Construction Projects EDA
 
 ## What Is This?
 Exploratory Data Analysis of 210 Alberta construction and infrastructure
