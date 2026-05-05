@@ -1,0 +1,251 @@
+project_id,city,zone,sector,contractor,project_value_cad,workers_on_site,safety_incidents,near_misses,lost_time_incidents,delay_days,project_duration_days,approved,project_type,season_started
+AB-2020-0001,Fort McMurray,Northern,Infrastructure,Bird Construction,12176577.05,,9,15,8,156,273,No,Decommission,Winter
+AB-2021-0002,Red Deer,Central,Commercial,ATCO,9307126.51,169,3,2,2,136,510,No,Renovation,Spring
+AB-2022-0003,Blackfalds,Central,Oil & Gas,PCL Construction,5172259.03,113,10,2,1,147,502,Yes,Decommission,Winter
+AB-2023-0004,Edmonton,Central,Infrastructure,Ledcor Group,41443734.62,211,,7,7,103,171,Yes,New Build,Winter
+AB-2019-0005,Medicine Hat,Southern,Residential,EllisDon,49284232.73,,15,1,15,177,700,Yes,Renovation,Summer
+AB-2020-0006,Grande Prairie,Northern,Industrial,Ledcor Group,3297472.85,251,4,0,0,61,120,Yes,New Build,Fall
+AB-2021-0007,Lethbridge,Southern,Infrastructure,Bird Construction,38642032.77,49,5,5,1,6,81,No,Decommission,Fall
+AB-2022-0008,Medicine Hat,Southern,Industrial,EllisDon,29993572.44,,15,19,13,75,583,Yes,Expansion,Fall
+AB-2023-0009,Calgary,Southern,Residential,Graham Construction,639330.51,60,6,2,6,108,199,Yes,Maintenance,Summer
+AB-2019-0010,Medicine Hat,Southern,Commercial,ATCO,42303160.7,150,2,16,1,80,228,Yes,Expansion,Fall
+AB-2020-0011,Medicine Hat,Southern,Oil & Gas,ATCO,48465146.65,135,12,17,11,168,346,Yes,Expansion,Winter
+AB-2021-0012,Calgary,Southern,Commercial,Ledcor Group,26479906.71,66,4,8,1,167,381,Yes,Decommission,Fall
+AB-2022-0013,Blackfalds,Central,Oil & Gas,Ledcor Group,2548453.87,,15,12,2,110,34,Yes,New Build,Fall
+AB-2023-0014,Fort McMurray,Northern,Oil & Gas,EllisDon,31731969.17,94,2,2,0,140,427,Yes,Renovation,Fall
+AB-2019-0015,Grande Prairie,Northern,Industrial,Bird Construction,9656502.75,300,13,18,6,188,705,No,Maintenance,Winter
+AB-2020-0016,Fort McMurray,Northern,Infrastructure,Stantec,48251219.63,224,6,16,4,90,688,No,Expansion,Summer
+AB-2021-0017,Red Deer,Central,Infrastructure,Fluor Canada,14763227.39,,7,3,7,150,728,Yes,Expansion,Summer
+AB-2022-0018,Medicine Hat,Southern,Industrial,ATCO,34624548.66,57,14,17,5,121,531,Yes,Renovation,Fall
+AB-2023-0019,Fort McMurray,Northern,Residential,EllisDon,47350902.48,229,14,18,0,147,108,Yes,Expansion,Summer
+AB-2019-0020,Grande Prairie,Northern,Infrastructure,Graham Construction,6333221.09,78,5,1,3,147,331,Yes,Expansion,Winter
+AB-2020-0021,Red Deer,Central,Commercial,Stantec,21435701.58,17,15,18,3,130,678,Yes,Renovation,Spring
+AB-2021-0022,Blackfalds,Central,Residential,ATCO,45375341.3,51,0,1,0,124,508,Yes,Maintenance,Winter
+AB-2022-0023,Calgary,Southern,Oil & Gas,Graham Construction,9114335.62,291,6,8,2,77,83,Yes,Decommission,Spring
+AB-2023-0024,Lethbridge,Southern,Residential,Fluor Canada,22533094.07,201,13,18,7,24,408,No,New Build,Fall
+AB-2019-0025,Grande Prairie,Northern,Infrastructure,Stantec,47052870.74,192,10,7,0,11,57,No,Decommission,Winter
+AB-2020-0026,Medicine Hat,Southern,Commercial,Fluor Canada,35820821.3,131,9,10,3,195,149,Yes,Maintenance,Fall
+AB-2021-0027,Red Deer,Central,Commercial,Ledcor Group,40855677.71,30,5,0,2,125,290,Yes,Decommission,Winter
+AB-2022-0028,Edmonton,Central,Oil & Gas,Fluor Canada,2030761.34,193,14,5,1,195,196,Yes,Expansion,Winter
+AB-2023-0029,Fort McMurray,Northern,Residential,Graham Construction,14644339.83,231,7,13,4,185,378,No,New Build,Fall
+AB-2019-0030,Calgary,Southern,Residential,ATCO,32195636.65,113,12,4,1,79,139,Yes,Expansion,Spring
+AB-2020-0031,Fort McMurray,Northern,Industrial,PCL Construction,6573574.99,18,3,16,0,35,345,Yes,New Build,Fall
+AB-2021-0032,Red Deer,Central,Industrial,PCL Construction,35543275.86,272,,13,6,97,436,Yes,Renovation,Spring
+AB-2022-0033,Edmonton,Central,Residential,Graham Construction,26289766.66,188,4,5,2,115,171,Yes,Decommission,Winter
+AB-2023-0034,Fort McMurray,Northern,Industrial,EllisDon,7455901.16,273,7,14,0,104,497,Yes,Maintenance,Summer
+AB-2019-0035,Edmonton,Central,Commercial,EllisDon,3043828.69,,9,9,1,112,475,No,Maintenance,Summer
+AB-2020-0036,Fort McMurray,Northern,Infrastructure,Ledcor Group,15377110.3,147,11,2,3,160,49,Yes,Decommission,Fall
+AB-2021-0037,Calgary,Southern,Oil & Gas,ATCO,41783734.82,126,5,18,1,3,430,Yes,New Build,Fall
+AB-2022-0038,Fort McMurray,Northern,Residential,Ledcor Group,49994731.25,277,7,12,4,2,285,Yes,Expansion,Fall
+AB-2023-0039,Medicine Hat,Southern,Oil & Gas,Ledcor Group,21149474.45,300,13,13,3,2,643,Yes,New Build,Winter
+AB-2019-0040,Fort McMurray,Northern,Commercial,Fluor Canada,27481717.26,96,10,4,8,94,391,Yes,Renovation,Fall
+AB-2020-0041,Calgary,Southern,Oil & Gas,PCL Construction,41520329.27,262,13,,12,193,247,No,Renovation,Fall
+AB-2021-0042,Grande Prairie,Northern,Commercial,Bird Construction,19571603.31,31,15,,15,120,143,Yes,Decommission,Summer
+AB-2022-0043,Red Deer,Central,Industrial,PCL Construction,18381845.24,52,12,0,8,156,263,No,New Build,Winter
+AB-2023-0044,Medicine Hat,Southern,Industrial,Stantec,15609745.02,64,,14,10,29,177,Yes,Expansion,Winter
+AB-2019-0045,Blackfalds,Central,Commercial,Bird Construction,15054222.95,230,13,10,1,134,64,No,Renovation,Spring
+AB-2020-0046,Lethbridge,Southern,Oil & Gas,PCL Construction,48028031.38,183,6,5,2,154,335,Yes,Maintenance,Winter
+AB-2021-0047,Lethbridge,Southern,Residential,Stantec,21939779.12,103,,2,5,82,705,Yes,New Build,Winter
+AB-2022-0048,Calgary,Southern,Industrial,Graham Construction,48937035.62,158,5,3,2,185,531,Yes,Expansion,Fall
+AB-2023-0049,Calgary,Southern,Industrial,ATCO,25790594.59,55,6,15,0,118,207,Yes,Expansion,Summer
+AB-2019-0050,Blackfalds,Central,Oil & Gas,Graham Construction,21951954.24,162,4,18,3,82,266,Yes,Maintenance,Spring
+AB-2020-0051,Calgary,Southern,Residential,EllisDon,26234135.87,124,,13,1,122,197,Yes,Renovation,Spring
+AB-2021-0052,Blackfalds,Central,Industrial,ATCO,16678838.54,191,4,14,3,102,35,Yes,New Build,Fall
+AB-2022-0053,Fort McMurray,Northern,Oil & Gas,Stantec,11890771.08,223,2,1,0,106,243,Yes,Decommission,Fall
+AB-2023-0054,Fort McMurray,Northern,Industrial,Graham Construction,4114988.68,283,2,13,0,46,719,Yes,Expansion,Winter
+AB-2019-0055,Medicine Hat,Southern,Oil & Gas,Graham Construction,30377377.72,169,10,0,6,151,532,Yes,Expansion,Fall
+AB-2020-0056,Fort McMurray,Northern,Oil & Gas,PCL Construction,47374339.68,171,3,7,0,130,156,No,New Build,Fall
+AB-2021-0057,Blackfalds,Central,Industrial,ATCO,5003453.56,237,10,18,3,73,177,Yes,Renovation,Winter
+AB-2022-0058,Grande Prairie,Northern,Industrial,Fluor Canada,11376776.09,,4,17,2,154,351,Yes,Decommission,Summer
+AB-2023-0059,Calgary,Southern,Commercial,Fluor Canada,10243896.96,74,2,5,0,165,30,Yes,Expansion,Fall
+AB-2019-0060,Red Deer,Central,Commercial,PCL Construction,20118964.11,119,5,7,0,154,209,No,Renovation,Winter
+AB-2020-0061,Lethbridge,Southern,Oil & Gas,EllisDon,43307439.36,187,3,,2,193,609,Yes,New Build,Summer
+AB-2021-0062,Lethbridge,Southern,Infrastructure,ATCO,41868226.18,147,13,20,10,104,74,Yes,Decommission,Winter
+AB-2022-0063,Calgary,Southern,Residential,PCL Construction,42410096.3,246,1,5,0,122,60,No,New Build,Summer
+AB-2023-0064,Calgary,Southern,Residential,PCL Construction,43171959.57,78,2,10,2,86,692,Yes,Decommission,Spring
+AB-2019-0065,Lethbridge,Southern,Residential,Graham Construction,23430669.41,140,8,14,5,13,646,Yes,New Build,Winter
+AB-2020-0066,Lethbridge,Southern,Industrial,EllisDon,45555595.44,,14,13,6,64,618,Yes,New Build,Summer
+AB-2021-0067,Medicine Hat,Southern,Infrastructure,Stantec,30890429.05,49,11,20,5,149,313,Yes,Maintenance,Spring
+AB-2022-0068,Red Deer,Central,Industrial,ATCO,18663396.81,6,,18,4,8,62,Yes,Maintenance,Winter
+AB-2023-0069,Grande Prairie,Northern,Infrastructure,EllisDon,18824299.08,6,3,17,0,31,397,No,New Build,Summer
+AB-2019-0070,Edmonton,Central,Commercial,EllisDon,18089908.52,173,15,3,0,194,182,Yes,Decommission,Summer
+AB-2020-0071,Calgary,Southern,Industrial,Bird Construction,8612441.71,55,14,4,14,174,498,Yes,New Build,Summer
+AB-2021-0072,Blackfalds,Central,Residential,Ledcor Group,30527172.23,270,9,15,6,14,189,Yes,Expansion,Spring
+AB-2022-0073,Edmonton,Central,Commercial,Bird Construction,20657075.33,117,6,5,0,80,421,Yes,Expansion,Fall
+AB-2023-0074,Medicine Hat,Southern,Oil & Gas,ATCO,46078299.82,130,,11,1,66,556,Yes,Renovation,Winter
+AB-2019-0075,Fort McMurray,Northern,Commercial,Ledcor Group,5475622.17,,12,1,6,158,415,Yes,Decommission,Spring
+AB-2020-0076,Lethbridge,Southern,Commercial,PCL Construction,35215095.98,220,10,2,8,64,633,No,Decommission,Summer
+AB-2021-0077,Red Deer,Central,Oil & Gas,PCL Construction,19496801.45,200,11,20,1,70,476,Yes,Decommission,Winter
+AB-2022-0078,Red Deer,Central,Commercial,Fluor Canada,43593056.39,176,5,16,5,143,77,Yes,New Build,Winter
+AB-2023-0079,Blackfalds,Central,Residential,Bird Construction,35061409.18,140,5,13,1,184,348,Yes,Expansion,Spring
+AB-2019-0080,Grande Prairie,Northern,Residential,Fluor Canada,2774191.78,66,3,6,1,8,609,No,Maintenance,Summer
+AB-2020-0081,Grande Prairie,Northern,Oil & Gas,EllisDon,6855180.92,115,1,13,0,187,298,Yes,Decommission,Spring
+AB-2021-0082,Fort McMurray,Northern,Commercial,Fluor Canada,43026031.14,273,5,9,0,94,184,Yes,Expansion,Summer
+AB-2022-0083,Medicine Hat,Southern,Residential,Stantec,14770098.6,61,,10,3,9,387,Yes,Expansion,Winter
+AB-2023-0084,Blackfalds,Central,Industrial,Fluor Canada,48112325.05,155,3,14,0,131,484,Yes,Maintenance,Winter
+AB-2019-0085,Edmonton,Central,Residential,Graham Construction,8895202.96,23,5,12,4,40,469,Yes,Renovation,Summer
+AB-2020-0086,Lethbridge,Southern,Commercial,Stantec,49954675.01,60,15,0,10,90,179,Yes,Expansion,Fall
+AB-2021-0087,Lethbridge,Southern,Commercial,PCL Construction,23091623.82,158,6,3,2,77,630,Yes,Decommission,Winter
+AB-2022-0088,Calgary,Southern,Infrastructure,Fluor Canada,43618506.33,143,15,12,2,22,726,No,Decommission,Spring
+AB-2023-0089,Fort McMurray,Northern,Infrastructure,ATCO,27363243.4,268,15,1,9,69,223,Yes,Expansion,Spring
+AB-2019-0090,Blackfalds,Central,Industrial,Fluor Canada,1273133.66,22,11,7,10,160,71,Yes,Expansion,Fall
+AB-2020-0091,Lethbridge,Southern,Industrial,Bird Construction,2572275.94,162,,18,3,66,175,No,Expansion,Spring
+AB-2021-0092,Grande Prairie,Northern,Residential,Stantec,10619347.78,35,3,7,3,156,660,No,Renovation,Fall
+AB-2022-0093,Lethbridge,Southern,Infrastructure,Ledcor Group,18011116.51,148,12,20,11,57,392,No,Renovation,Spring
+AB-2023-0094,Fort McMurray,Northern,Industrial,Stantec,8391683.84,231,11,8,8,11,47,Yes,Renovation,Spring
+AB-2019-0095,Blackfalds,Central,Oil & Gas,Fluor Canada,8067338.21,,13,10,8,198,504,Yes,Expansion,Spring
+AB-2020-0096,Medicine Hat,Southern,Oil & Gas,Fluor Canada,13791096.77,207,11,17,8,119,276,Yes,Expansion,Fall
+AB-2021-0097,Medicine Hat,Southern,Commercial,Bird Construction,40381637.41,,11,7,2,196,67,Yes,Renovation,Summer
+AB-2022-0098,Grande Prairie,Northern,Oil & Gas,ATCO,2078485.69,114,,4,1,180,124,Yes,Expansion,Winter
+AB-2023-0099,Edmonton,Central,Residential,Fluor Canada,28543620.68,71,11,1,1,139,593,Yes,New Build,Fall
+AB-2019-0100,Lethbridge,Southern,Infrastructure,Ledcor Group,43349739.79,244,14,7,11,110,714,No,Expansion,Summer
+AB-2020-0101,Fort McMurray,Northern,Oil & Gas,EllisDon,27937833.66,26,3,10,2,189,290,Yes,Decommission,Fall
+AB-2021-0102,Red Deer,Central,Oil & Gas,Fluor Canada,34698519.4,115,9,,1,5,165,No,Maintenance,Fall
+AB-2022-0103,Medicine Hat,Southern,Residential,Fluor Canada,37308136.46,249,7,11,6,23,674,Yes,New Build,Winter
+AB-2023-0104,Medicine Hat,Southern,Industrial,Graham Construction,20476018.93,149,10,13,10,70,222,Yes,Maintenance,Fall
+AB-2019-0105,Fort McMurray,Northern,Infrastructure,Bird Construction,28478126.81,288,6,11,2,25,531,No,Expansion,Fall
+AB-2020-0106,Medicine Hat,Southern,Industrial,Graham Construction,16388857.88,244,5,12,4,29,394,Yes,Maintenance,Fall
+AB-2021-0107,Blackfalds,Central,Oil & Gas,Bird Construction,40046894.11,141,8,12,6,114,250,Yes,Maintenance,Fall
+AB-2022-0108,Calgary,Southern,Commercial,EllisDon,49208193.44,70,4,12,4,48,603,Yes,Expansion,Winter
+AB-2023-0109,Lethbridge,Southern,Industrial,Ledcor Group,5643254.56,8,10,19,10,68,151,No,Expansion,Winter
+AB-2019-0110,Edmonton,Central,Residential,Ledcor Group,30385141.65,5,15,5,7,42,304,No,Maintenance,Spring
+AB-2020-0111,Grande Prairie,Northern,Oil & Gas,Stantec,39349897.35,93,15,2,15,164,493,Yes,Maintenance,Fall
+AB-2021-0112,Medicine Hat,Southern,Infrastructure,ATCO,14609003.85,,10,10,10,125,476,No,Decommission,Spring
+AB-2022-0113,Red Deer,Central,Oil & Gas,Ledcor Group,36437046.48,198,8,13,3,193,165,Yes,New Build,Spring
+AB-2023-0114,Grande Prairie,Northern,Industrial,EllisDon,42747949.67,272,1,0,0,130,279,Yes,Decommission,Spring
+AB-2019-0115,Edmonton,Central,Residential,Stantec,35818591.53,212,2,16,2,167,249,Yes,Expansion,Fall
+AB-2020-0116,Edmonton,Central,Industrial,Stantec,1619114.24,271,11,5,3,69,690,Yes,Renovation,Spring
+AB-2021-0117,Grande Prairie,Northern,Infrastructure,Graham Construction,24793468.13,208,4,2,3,157,61,Yes,Renovation,Spring
+AB-2022-0118,Calgary,Southern,Commercial,ATCO,44240672.52,61,,0,4,156,339,Yes,Renovation,Summer
+AB-2023-0119,Red Deer,Central,Industrial,Stantec,40309483.32,251,,10,0,186,584,Yes,Maintenance,Winter
+AB-2019-0120,Blackfalds,Central,Oil & Gas,Graham Construction,15235335.28,252,9,19,1,79,127,Yes,Renovation,Winter
+AB-2020-0121,Fort McMurray,Northern,Industrial,PCL Construction,43216047.41,236,,4,5,18,572,Yes,New Build,Winter
+AB-2021-0122,Blackfalds,Central,Residential,Ledcor Group,31405788.13,200,14,2,10,143,553,Yes,Renovation,Winter
+AB-2022-0123,Fort McMurray,Northern,Oil & Gas,PCL Construction,8863514.45,,,5,2,154,474,No,New Build,Winter
+AB-2023-0124,Medicine Hat,Southern,Oil & Gas,Bird Construction,31667051.22,13,0,8,0,93,221,Yes,Expansion,Winter
+AB-2019-0125,Medicine Hat,Southern,Industrial,PCL Construction,15716355.3,273,4,3,0,32,575,No,Renovation,Fall
+AB-2020-0126,Grande Prairie,Northern,Oil & Gas,ATCO,14949071.4,148,7,17,4,175,194,Yes,Renovation,Winter
+AB-2021-0127,Grande Prairie,Northern,Oil & Gas,EllisDon,40354406.86,234,1,14,0,162,304,No,Decommission,Fall
+AB-2022-0128,Calgary,Southern,Oil & Gas,Graham Construction,48822524.62,201,0,19,0,164,533,No,Renovation,Spring
+AB-2023-0129,Medicine Hat,Southern,Residential,Bird Construction,22348224.62,120,12,19,3,125,62,Yes,Renovation,Fall
+AB-2019-0130,Calgary,Southern,Industrial,Ledcor Group,11121693.08,176,10,19,7,79,238,Yes,Decommission,Summer
+AB-2020-0131,Red Deer,Central,Industrial,Stantec,2086429.9,253,1,0,0,73,341,Yes,Maintenance,Spring
+AB-2021-0132,Grande Prairie,Northern,Industrial,Stantec,20481825.69,280,6,7,4,161,268,No,Expansion,Winter
+AB-2022-0133,Fort McMurray,Northern,Commercial,PCL Construction,8394463.37,99,6,5,2,148,247,No,Renovation,Spring
+AB-2023-0134,Grande Prairie,Northern,Infrastructure,ATCO,34733090.52,210,9,12,3,129,160,Yes,Maintenance,Winter
+AB-2019-0135,Red Deer,Central,Industrial,PCL Construction,20993213.37,139,10,5,5,32,195,No,Renovation,Winter
+AB-2020-0136,Lethbridge,Southern,Infrastructure,Fluor Canada,5758542.35,59,6,18,4,138,694,Yes,Maintenance,Summer
+AB-2021-0137,Blackfalds,Central,Commercial,Fluor Canada,21205539.32,88,,15,3,114,370,No,Renovation,Winter
+AB-2022-0138,Red Deer,Central,Residential,Fluor Canada,13631612.32,211,15,5,7,93,134,Yes,Renovation,Fall
+AB-2023-0139,Calgary,Southern,Oil & Gas,EllisDon,13049064.39,52,4,14,1,110,509,No,Decommission,Summer
+AB-2019-0140,Red Deer,Central,Industrial,ATCO,10710378.93,141,8,10,6,111,312,Yes,Expansion,Fall
+AB-2020-0141,Red Deer,Central,Oil & Gas,Graham Construction,23535491.77,138,14,20,2,33,626,No,Renovation,Summer
+AB-2021-0142,Fort McMurray,Northern,Residential,Ledcor Group,32456277.52,64,9,20,0,90,161,No,Renovation,Fall
+AB-2022-0143,Grande Prairie,Northern,Residential,EllisDon,10653026.92,13,12,13,10,128,106,Yes,New Build,Spring
+AB-2023-0144,Blackfalds,Central,Industrial,Fluor Canada,19335646.58,155,5,19,5,137,328,Yes,Renovation,Summer
+AB-2019-0145,Lethbridge,Southern,Residential,Fluor Canada,22137292.3,256,12,12,12,62,608,Yes,Decommission,Winter
+AB-2020-0146,Medicine Hat,Southern,Industrial,PCL Construction,2695360.43,181,,0,5,109,169,Yes,Renovation,Spring
+AB-2021-0147,Lethbridge,Southern,Commercial,PCL Construction,39277763.96,13,9,13,8,64,375,Yes,New Build,Fall
+AB-2022-0148,Fort McMurray,Northern,Industrial,Ledcor Group,22972925.65,108,13,,12,28,723,Yes,Renovation,Fall
+AB-2023-0149,Fort McMurray,Northern,Industrial,Stantec,35034905.23,181,11,16,6,11,183,Yes,Decommission,Fall
+AB-2019-0150,Blackfalds,Central,Residential,PCL Construction,9040735.26,31,10,12,9,109,602,Yes,Renovation,Summer
+AB-2020-0151,Fort McMurray,Northern,Commercial,Ledcor Group,34265259.0,91,14,2,2,148,494,Yes,Expansion,Spring
+AB-2021-0152,Grande Prairie,Northern,Infrastructure,Ledcor Group,35858956.68,47,,9,0,188,496,No,New Build,Fall
+AB-2022-0153,Medicine Hat,Southern,Infrastructure,Ledcor Group,4919341.82,27,11,18,2,110,145,Yes,Maintenance,Winter
+AB-2023-0154,Lethbridge,Southern,Infrastructure,Ledcor Group,14420520.25,265,,11,2,21,537,No,Maintenance,Summer
+AB-2019-0155,Medicine Hat,Southern,Oil & Gas,Stantec,49379209.51,228,13,18,7,78,505,Yes,Maintenance,Fall
+AB-2020-0156,Red Deer,Central,Oil & Gas,Graham Construction,20526452.95,267,2,11,1,93,719,No,Expansion,Spring
+AB-2021-0157,Grande Prairie,Northern,Oil & Gas,Bird Construction,46014155.12,84,1,14,1,147,253,Yes,Decommission,Summer
+AB-2022-0158,Fort McMurray,Northern,Infrastructure,Graham Construction,21162790.85,283,7,16,3,41,590,Yes,Renovation,Summer
+AB-2023-0159,Calgary,Southern,Oil & Gas,EllisDon,33012783.68,144,7,2,4,120,197,No,Decommission,Spring
+AB-2019-0160,Blackfalds,Central,Industrial,Graham Construction,13568184.91,143,13,8,5,171,471,Yes,Maintenance,Summer
+AB-2020-0161,Blackfalds,Central,Commercial,Fluor Canada,33939862.27,,7,4,0,44,494,Yes,Renovation,Fall
+AB-2021-0162,Blackfalds,Central,Industrial,Stantec,19738081.19,87,10,10,6,71,662,Yes,Expansion,Winter
+AB-2022-0163,Fort McMurray,Northern,Residential,EllisDon,47222298.57,46,4,15,1,188,289,Yes,Renovation,Fall
+AB-2023-0164,Calgary,Southern,Commercial,ATCO,21097640.33,202,4,17,1,190,499,Yes,Decommission,Fall
+AB-2019-0165,Lethbridge,Southern,Industrial,Ledcor Group,3810693.52,169,8,18,3,193,587,Yes,New Build,Spring
+AB-2020-0166,Calgary,Southern,Infrastructure,Stantec,39253915.56,155,9,13,7,135,627,Yes,Decommission,Winter
+AB-2021-0167,Medicine Hat,Southern,Residential,Bird Construction,21422890.3,188,10,20,8,171,697,Yes,Renovation,Summer
+AB-2022-0168,Grande Prairie,Northern,Industrial,Stantec,5359583.61,218,9,13,0,57,61,Yes,Expansion,Winter
+AB-2023-0169,Lethbridge,Southern,Industrial,Ledcor Group,675142.48,298,10,5,5,1,300,Yes,Decommission,Summer
+AB-2019-0170,Calgary,Southern,Residential,EllisDon,36167626.71,279,,15,2,22,91,Yes,Expansion,Spring
+AB-2020-0171,Medicine Hat,Southern,Industrial,Ledcor Group,12529551.71,25,6,2,0,42,243,Yes,Decommission,Fall
+AB-2021-0172,Red Deer,Central,Oil & Gas,ATCO,47372649.28,66,10,3,2,134,363,Yes,Renovation,Winter
+AB-2022-0173,Calgary,Southern,Infrastructure,EllisDon,24736370.41,155,6,10,6,147,174,Yes,Maintenance,Fall
+AB-2023-0174,Medicine Hat,Southern,Infrastructure,Fluor Canada,24713365.69,249,15,3,4,178,575,Yes,Maintenance,Winter
+AB-2019-0175,Lethbridge,Southern,Commercial,ATCO,44563634.25,33,13,13,12,142,304,No,Decommission,Spring
+AB-2020-0176,Edmonton,Central,Infrastructure,ATCO,3302478.28,179,10,20,8,2,113,Yes,Renovation,Winter
+AB-2021-0177,Edmonton,Central,Commercial,PCL Construction,31720388.41,228,,,2,82,151,Yes,Expansion,Spring
+AB-2022-0178,Red Deer,Central,Industrial,Bird Construction,28323715.85,240,9,0,2,177,416,No,Expansion,Summer
+AB-2023-0179,Blackfalds,Central,Industrial,EllisDon,47478444.37,166,6,8,2,161,646,Yes,New Build,Spring
+AB-2019-0180,Grande Prairie,Northern,Infrastructure,Fluor Canada,19540993.25,,3,18,3,190,299,Yes,Renovation,Fall
+AB-2020-0181,Medicine Hat,Southern,Oil & Gas,ATCO,34624224.16,26,15,,13,196,354,Yes,Maintenance,Summer
+AB-2021-0182,Medicine Hat,Southern,Commercial,EllisDon,45969840.67,21,3,8,1,124,297,Yes,Expansion,Fall
+AB-2022-0183,Red Deer,Central,Oil & Gas,EllisDon,25839173.74,281,14,18,10,130,204,No,Maintenance,Winter
+AB-2023-0184,Lethbridge,Southern,Infrastructure,PCL Construction,7660068.49,152,9,8,6,117,57,Yes,Decommission,Summer
+AB-2019-0185,Medicine Hat,Southern,Commercial,Ledcor Group,34503742.89,295,9,9,5,68,158,No,Maintenance,Summer
+AB-2020-0186,Grande Prairie,Northern,Oil & Gas,Graham Construction,24511875.59,110,7,7,1,53,376,No,Renovation,Summer
+AB-2021-0187,Calgary,Southern,Industrial,EllisDon,26329317.2,296,11,16,11,167,457,No,New Build,Spring
+AB-2022-0188,Lethbridge,Southern,Residential,PCL Construction,23718047.37,110,13,15,8,67,463,Yes,New Build,Fall
+AB-2023-0189,Fort McMurray,Northern,Oil & Gas,PCL Construction,5836571.23,19,0,10,0,17,619,No,Maintenance,Summer
+AB-2019-0190,Red Deer,Central,Oil & Gas,Stantec,18288461.03,115,11,20,6,197,422,No,Renovation,Winter
+AB-2020-0191,Calgary,Southern,Oil & Gas,Fluor Canada,13340346.52,198,0,20,0,61,537,Yes,New Build,Winter
+AB-2021-0192,Blackfalds,Central,Oil & Gas,Ledcor Group,3804866.0,205,6,11,1,141,608,No,Decommission,Fall
+AB-2022-0193,Calgary,Southern,Oil & Gas,Graham Construction,31199366.61,156,,16,2,138,253,No,Decommission,Winter
+AB-2023-0194,Blackfalds,Central,Industrial,Fluor Canada,29604680.98,221,7,2,5,25,274,Yes,Decommission,Summer
+AB-2019-0195,Fort McMurray,Northern,Oil & Gas,EllisDon,6567432.33,292,10,8,2,28,84,Yes,Expansion,Fall
+AB-2020-0196,Grande Prairie,Northern,Infrastructure,EllisDon,11165145.99,25,5,13,1,180,252,Yes,Renovation,Fall
+AB-2021-0197,Fort McMurray,Northern,Oil & Gas,Ledcor Group,5392704.95,50,14,1,1,145,669,Yes,Renovation,Summer
+AB-2022-0198,Blackfalds,Central,Residential,Fluor Canada,5604054.59,81,0,14,0,164,157,Yes,Decommission,Winter
+AB-2023-0199,Fort McMurray,Northern,Infrastructure,ATCO,10834355.9,70,9,19,1,49,250,Yes,Decommission,Spring
+AB-2019-0200,Grande Prairie,Northern,Industrial,Bird Construction,46096622.12,196,7,2,7,48,174,No,Maintenance,Spring
+AB-2020-0201,Medicine Hat,Southern,Commercial,ATCO,45863783.79,269,9,20,5,83,260,Yes,Renovation,Fall
+AB-2021-0202,Lethbridge,Southern,Industrial,Stantec,3622249.94,114,14,8,9,3,703,Yes,New Build,Summer
+AB-2022-0203,Fort McMurray,Northern,Oil & Gas,Ledcor Group,36689112.93,14,2,7,2,10,293,Yes,Expansion,Fall
+AB-2023-0204,Grande Prairie,Northern,Commercial,PCL Construction,26389268.7,272,2,16,2,25,383,Yes,Renovation,Fall
+AB-2019-0205,Lethbridge,Southern,Oil & Gas,Ledcor Group,15133895.06,113,,18,2,125,207,Yes,Maintenance,Fall
+AB-2020-0206,Red Deer,Central,Residential,Graham Construction,17131013.26,12,1,9,1,58,620,No,Decommission,Spring
+AB-2021-0207,Grande Prairie,Northern,Commercial,Fluor Canada,10968861.45,124,3,11,3,42,341,Yes,Renovation,Winter
+AB-2022-0208,Red Deer,Central,Oil & Gas,Ledcor Group,41064479.72,245,13,9,8,118,142,Yes,Expansion,Fall
+AB-2023-0209,Fort McMurray,Northern,Industrial,Graham Construction,41625851.5,20,4,3,2,91,38,Yes,Expansion,Winter
+AB-2019-0210,Medicine Hat,Southern,Infrastructure,Graham Construction,43937065.48,233,6,11,4,26,35,Yes,Expansion,Spring
+AB-2020-0211,Blackfalds,Central,Industrial,Bird Construction,46790781.62,24,0,,0,43,102,Yes,Maintenance,Fall
+AB-2021-0212,Calgary,Southern,Industrial,Graham Construction,3376410.7,10,,3,0,117,50,Yes,Renovation,Winter
+AB-2022-0213,Fort McMurray,Northern,Residential,ATCO,10071115.55,283,,0,3,52,641,Yes,Decommission,Summer
+AB-2023-0214,Grande Prairie,Northern,Infrastructure,ATCO,12062860.42,141,14,11,6,0,65,No,Maintenance,Summer
+AB-2019-0215,Edmonton,Central,Commercial,Bird Construction,39734441.8,78,6,,2,133,555,No,Expansion,Summer
+AB-2020-0216,Blackfalds,Central,Commercial,Graham Construction,44245827.66,99,2,19,2,180,245,Yes,Renovation,Fall
+AB-2021-0217,Lethbridge,Southern,Infrastructure,PCL Construction,25535042.9,156,,17,6,88,141,Yes,New Build,Winter
+AB-2022-0218,Blackfalds,Central,Infrastructure,Graham Construction,47705999.79,72,10,12,9,74,210,Yes,New Build,Spring
+AB-2023-0219,Red Deer,Central,Commercial,Stantec,21609994.54,113,8,12,8,56,300,Yes,New Build,Summer
+AB-2019-0220,Fort McMurray,Northern,Residential,EllisDon,40335329.59,300,9,4,4,162,471,No,New Build,Winter
+AB-2020-0221,Red Deer,Central,Oil & Gas,ATCO,15894172.45,177,6,2,3,69,91,Yes,Expansion,Spring
+AB-2021-0222,Lethbridge,Southern,Residential,ATCO,45773383.64,124,11,0,5,2,480,Yes,Maintenance,Spring
+AB-2022-0223,Red Deer,Central,Oil & Gas,EllisDon,40156320.52,258,14,19,3,6,493,Yes,Maintenance,Spring
+AB-2023-0224,Red Deer,Central,Oil & Gas,EllisDon,28929471.19,102,14,20,0,73,297,Yes,New Build,Summer
+AB-2019-0225,Blackfalds,Central,Commercial,Fluor Canada,14159689.02,204,6,17,2,127,93,Yes,Renovation,Summer
+AB-2020-0226,Grande Prairie,Northern,Residential,Fluor Canada,33125838.47,83,14,13,5,123,501,Yes,Expansion,Summer
+AB-2021-0227,Fort McMurray,Northern,Industrial,Fluor Canada,29226411.15,190,2,6,2,38,620,Yes,Decommission,Summer
+AB-2022-0228,Red Deer,Central,Oil & Gas,EllisDon,35584944.05,172,0,5,0,142,180,Yes,Renovation,Spring
+AB-2023-0229,Fort McMurray,Northern,Commercial,Stantec,5267233.33,293,11,13,5,164,651,Yes,New Build,Summer
+AB-2019-0230,Lethbridge,Southern,Commercial,Stantec,21236593.8,278,15,13,11,123,444,Yes,Decommission,Summer
+AB-2020-0231,Grande Prairie,Northern,Residential,EllisDon,41125127.66,82,3,16,1,66,307,Yes,Decommission,Summer
+AB-2021-0232,Blackfalds,Central,Residential,Ledcor Group,39362437.12,87,5,5,0,108,81,Yes,Decommission,Spring
+AB-2022-0233,Lethbridge,Southern,Infrastructure,Bird Construction,6744165.59,111,13,9,9,109,391,Yes,Decommission,Spring
+AB-2023-0234,Grande Prairie,Northern,Oil & Gas,Bird Construction,27283590.42,291,5,9,3,37,92,Yes,Decommission,Spring
+AB-2019-0235,Edmonton,Central,Commercial,ATCO,14459165.69,233,13,0,13,7,257,Yes,Decommission,Fall
+AB-2020-0236,Calgary,Southern,Industrial,ATCO,15058705.37,,12,15,5,143,370,Yes,Maintenance,Spring
+AB-2021-0237,Edmonton,Central,Commercial,PCL Construction,43268324.58,252,12,19,7,10,168,No,Expansion,Spring
+AB-2022-0238,Edmonton,Central,Residential,Fluor Canada,14138391.95,107,3,4,3,59,408,Yes,Renovation,Fall
+AB-2023-0239,Blackfalds,Central,Oil & Gas,Stantec,26009985.05,64,10,0,10,127,105,Yes,Renovation,Winter
+AB-2019-0240,Lethbridge,Southern,Residential,Bird Construction,1079822.93,229,,11,5,177,433,Yes,New Build,Summer
+AB-2020-0241,Lethbridge,Southern,Infrastructure,EllisDon,23648589.11,93,9,2,4,44,484,No,Expansion,Summer
+AB-2021-0242,Fort McMurray,Northern,Commercial,Graham Construction,36125534.38,19,14,0,12,19,626,Yes,New Build,Summer
+AB-2022-0243,Lethbridge,Southern,Residential,ATCO,49100690.14,,7,19,4,199,540,Yes,Renovation,Spring
+AB-2023-0244,Blackfalds,Central,Residential,EllisDon,17719552.26,133,5,8,1,165,423,Yes,Maintenance,Summer
+AB-2019-0245,Edmonton,Central,Industrial,Bird Construction,46520850.66,269,1,1,0,138,183,Yes,Renovation,Fall
+AB-2020-0246,Blackfalds,Central,Industrial,Stantec,31182991.45,5,11,7,0,196,262,Yes,Renovation,Spring
+AB-2021-0247,Red Deer,Central,Residential,ATCO,31757867.37,254,10,4,7,33,535,Yes,Maintenance,Fall
+AB-2022-0248,Calgary,Southern,Industrial,EllisDon,16962340.72,170,12,7,10,145,145,Yes,Maintenance,Spring
+AB-2023-0249,Medicine Hat,Southern,Commercial,ATCO,11243582.29,202,0,9,0,144,172,Yes,New Build,Spring
+AB-2019-0250,Edmonton,Central,Industrial,Stantec,43426976.31,286,4,1,4,78,648,No,New Build,Winter

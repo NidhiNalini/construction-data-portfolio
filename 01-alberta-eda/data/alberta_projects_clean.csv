@@ -1,0 +1,190 @@
+project_id,project_name,city,province,sector,contractor,project_value_cad,start_date,end_date,status,workers_on_site,safety_incidents,delay_days,inspector_name,approved
+AB-2022-0106,Depot C106,Lethbridge,Alberta,Commercial,PCL Construction,23838564.61,2022-02-19,2022-01-27,Completed,142.0,5.0,113.0,R. Sharma,No
+AB-2021-0113,Plaza J113,Fort McMurray,Alberta,Commercial,Fluor Canada,25373009.84,2023-09-17,2023-07-08,On Hold,241.0,5.0,48.0,D. Kowalski,Yes
+AB-2021-0121,Highway R121,Edmonton,Alberta,Infrastructure,Ledcor Group,38291677.86,2020-04-19,2020-12-27,Completed,149.0,6.0,138.0,A. Mehta,Yes
+AB-2021-0017,Pipeline R17,Red Deer,Alberta,Industrial,ATCO,5167543.54,2021-09-02,2022-10-18,In Progress,127.5,12.0,10.0,A. Mehta,No
+AB-2021-0025,Depot Z25,Red Deer,Alberta,Industrial,Fluor Canada,11238702.23,2022-09-16,2024-04-09,Completed,74.0,8.0,38.0,M. Al-Farsi,Yes
+AB-2023-0023,Plaza X23,Fort McMurray,Alberta,Commercial,Bird Construction,2222685.26,2023-10-28,2023-08-14,Completed,183.0,6.0,167.0,D. Kowalski,Yes
+AB-2023-0143,Depot N143,Edmonton,Alberta,Commercial,Bird Construction,20111249.42,2020-12-11,2020-07-23,Completed,27.0,1.0,94.0,S. Benson,Yes
+AB-2021-0117,Overpass N117,Red Deer,Alberta,Commercial,Fluor Canada,40037999.16,2020-09-02,2020-11-02,Cancelled,166.0,11.0,55.0,,Yes
+AB-2023-0099,Plaza V99,Lethbridge,Alberta,Infrastructure,EllisDon,43785041.65,2022-05-23,2022-12-23,Cancelled,244.0,11.0,31.0,,Yes
+AB-2020-0144,Facility O144,Red Deer,Alberta,Commercial,PCL Construction,530092.18,2021-08-12,2023-04-21,Cancelled,118.0,1.0,35.0,R. Sharma,Yes
+AB-2022-0138,Tower I138,Red Deer,Alberta,Commercial,Bird Construction,25717834.36,2022-10-18,2022-06-23,Completed,224.0,10.0,34.0,,Yes
+AB-2022-0130,Plaza A130,Lethbridge,Alberta,Industrial,Stantec,34789549.13,2021-06-01,2022-02-10,Completed,245.0,5.0,116.0,M. Al-Farsi,
+AB-2020-0188,Highway G188,Edmonton,Alberta,Industrial,Fluor Canada,24695614.96,2023-12-05,2023-12-22,On Hold,30.0,4.0,179.0,T. Leblanc,Yes
+AB-2020-0060,Plaza I60,Medicine Hat,Alberta,Industrial,Bird Construction,37259752.23,2023-07-24,2023-06-14,On Hold,44.0,7.0,,R. Sharma,Yes
+AB-2021-0185,Facility D185,Medicine Hat,Alberta,Industrial,Fluor Canada,1841980.53,2021-12-12,2021-06-25,In Progress,127.5,0.0,57.0,A. Mehta,Yes
+AB-2023-0103,Overpass Z103,Fort McMurray,Alberta,Industrial,Fluor Canada,6168867.58,2023-05-07,2023-06-06,Completed,52.0,0.0,75.0,M. Al-Farsi,Yes
+AB-2023-0087,Plaza J87,Edmonton,Alberta,Commercial,Graham Construction,22306883.89,2022-09-19,2023-08-26,In Progress,27.0,6.0,122.0,,Yes
+AB-2020-0148,Bridge S148,Lethbridge,Alberta,Commercial,Stantec,28598096.99,2020-05-23,2021-12-28,In Progress,116.0,9.0,79.0,T. Leblanc,Yes
+AB-2023-0059,Facility H59,Edmonton,Alberta,Industrial,Fluor Canada,3773452.91,2021-02-05,2022-10-21,Completed,157.0,7.0,110.0,R. Sharma,Yes
+AB-2022-0082,Bridge E82,Grande Prairie,Alberta,Industrial,ATCO,40274491.65,2023-06-06,2024-12-16,In Progress,210.0,6.0,154.0,T. Leblanc,
+AB-2020-0180,Pipeline Y180,Fort McMurray,Alberta,Residential,Fluor Canada,44477989.32,2022-05-09,2024-12-21,In Progress,66.0,12.0,153.0,,Yes
+AB-2020-0008,Bridge I8,Red Deer,Alberta,Commercial,Fluor Canada,7555944.11,2023-04-18,2025-12-07,Cancelled,171.0,8.0,63.0,M. Al-Farsi,Yes
+AB-2022-0062,Plaza K62,Red Deer,Alberta,Industrial,Bird Construction,15852612.64,2022-02-25,2023-10-08,In Progress,201.0,9.0,142.0,D. Kowalski,Yes
+AB-2021-0089,Overpass L89,Lethbridge,Alberta,Infrastructure,EllisDon,11389648.11,2022-03-21,,Completed,246.0,2.0,154.0,A. Mehta,Yes
+AB-2022-0018,Plaza S18,Edmonton,Alberta,Infrastructure,ATCO,33764070.86,2021-03-26,2021-07-01,On Hold,110.0,11.0,68.0,T. Leblanc,Yes
+AB-2023-0191,Highway J191,Fort McMurray,Alberta,Infrastructure,Stantec,5348162.26,2020-01-28,2020-11-21,On Hold,249.0,11.0,87.0,T. Leblanc,Yes
+AB-2022-0026,Tower A26,Lethbridge,Alberta,Residential,ATCO,24486109.65,2023-01-07,2024-07-25,Completed,127.5,9.0,1.0,A. Mehta,Yes
+AB-2020-0036,Highway K36,Fort McMurray,Alberta,Industrial,Fluor Canada,8418710.62,2020-05-28,,Cancelled,127.5,0.0,144.0,S. Benson,Yes
+AB-2021-0057,Highway F57,Fort McMurray,Alberta,Commercial,Graham Construction,35963344.99,2020-11-28,2020-03-01,In Progress,87.0,0.0,32.0,,
+AB-2020-0056,Bridge E56,Blackfalds,Alberta,Residential,Bird Construction,26931996.28,2020-01-26,2021-04-05,In Progress,127.5,3.0,59.0,A. Mehta,Yes
+AB-2020-0064,Overpass M64,Fort McMurray,Alberta,Infrastructure,PCL Construction,7127758.67,2020-11-03,2021-08-22,Completed,74.0,8.0,110.0,R. Sharma,Yes
+AB-2022-0022,Pipeline W22,Medicine Hat,Alberta,Oil & Gas,Ledcor Group,9576693.42,2022-08-15,2023-11-07,In Progress,208.0,10.0,131.0,A. Mehta,Yes
+AB-2022-0030,Bridge E30,Calgary,Alberta,Infrastructure,ATCO,32218409.52,2020-10-23,2022-04-04,On Hold,158.0,12.0,10.0,A. Mehta,
+AB-2020-0156,Tower A156,Blackfalds,Alberta,Industrial,Stantec,24186216.03,2021-08-10,2022-05-28,In Progress,82.0,11.0,55.0,A. Mehta,Yes
+AB-2022-0150,Bridge U150,Blackfalds,Alberta,Industrial,Stantec,38692286.25,2021-06-06,2022-02-19,Completed,135.0,0.0,3.0,M. Al-Farsi,Yes
+AB-2020-0088,Bridge K88,Red Deer,Alberta,Infrastructure,PCL Construction,30652888.23,2022-03-27,2024-11-19,In Progress,238.0,1.0,77.0,T. Leblanc,Yes
+AB-2021-0181,Tower Z181,Calgary,Alberta,Industrial,EllisDon,18922671.02,2023-12-02,2025-12-19,On Hold,61.0,10.0,171.0,A. Mehta,
+AB-2021-0153,Depot X153,Lethbridge,Alberta,Oil & Gas,Bird Construction,41968029.33,2020-04-18,2021-11-27,Completed,5.0,6.0,78.0,R. Sharma,No
+AB-2020-0044,Pipeline S44,Fort McMurray,Alberta,Industrial,Fluor Canada,11081331.14,2021-07-07,2023-09-24,In Progress,127.5,6.0,129.0,S. Benson,Yes
+AB-2023-0055,Facility D55,Edmonton,Alberta,Industrial,ATCO,12696345.28,2022-04-15,2023-04-28,Completed,235.0,5.0,,S. Benson,No
+AB-2022-0090,Highway M90,Edmonton,Alberta,Residential,EllisDon,34548111.19,2023-10-21,2023-08-21,Completed,128.0,12.0,76.0,,Yes
+AB-2022-0182,Pipeline A182,Red Deer,Alberta,Oil & Gas,Graham Construction,21264522.14,2022-12-26,2024-03-22,Completed,95.0,4.0,84.0,A. Mehta,Yes
+AB-2023-0075,Depot X75,Lethbridge,Alberta,Infrastructure,Fluor Canada,12787462.21,2023-09-17,2024-03-27,Completed,69.0,0.0,95.0,R. Sharma,
+AB-2021-0093,Depot P93,Calgary,Alberta,Residential,ATCO,43505895.38,2021-10-12,2021-01-10,In Progress,125.0,0.0,110.0,T. Leblanc,Yes
+AB-2020-0128,Pipeline Y128,Edmonton,Alberta,Industrial,Fluor Canada,13732044.02,2022-11-05,2024-07-26,Cancelled,127.0,8.0,177.0,,
+AB-2021-0005,Facility F5,Blackfalds,Alberta,Commercial,EllisDon,33562755.85,2022-12-19,2023-10-13,In Progress,28.0,1.0,40.0,,Yes
+AB-2020-0112,Pipeline I112,Fort McMurray,Alberta,Residential,Graham Construction,19309946.12,2023-01-12,2025-11-13,On Hold,109.0,6.0,137.0,,No
+AB-2021-0001,Bridge B1,Calgary,Alberta,Infrastructure,Bird Construction,33180733.96,2020-10-14,2020-01-03,Completed,148.0,10.0,107.0,M. Al-Farsi,No
+AB-2023-0127,Tower X127,Medicine Hat,Alberta,Infrastructure,EllisDon,28535675.42,2021-06-13,2022-07-12,Completed,144.0,12.0,118.0,M. Al-Farsi,No
+AB-2023-0035,Plaza J35,Blackfalds,Alberta,Infrastructure,EllisDon,37493382.1,2022-04-12,2022-05-01,In Progress,18.0,11.0,163.0,,Yes
+AB-2021-0073,Overpass V73,Calgary,Alberta,Infrastructure,EllisDon,9756540.86,2023-04-08,2023-03-03,In Progress,202.0,11.0,9.0,A. Mehta,Yes
+AB-2023-0171,Overpass P171,Medicine Hat,Alberta,Oil & Gas,Bird Construction,37859752.91,2023-09-22,2024-10-08,Completed,223.0,8.0,132.0,T. Leblanc,Yes
+AB-2023-0139,Pipeline J139,Red Deer,Alberta,Commercial,Bird Construction,14596037.52,2021-11-13,2022-03-19,Completed,120.0,12.0,23.0,,
+AB-2021-0077,Highway Z77,Grande Prairie,Alberta,Residential,Stantec,6321341.51,2022-08-23,2022-12-16,Completed,9.0,2.0,155.0,,Yes
+AB-2022-0086,Plaza I86,Edmonton,Alberta,Commercial,PCL Construction,40455754.53,2023-02-26,2025-06-22,Completed,79.0,2.0,179.0,T. Leblanc,Yes
+AB-2020-0104,Facility A104,Medicine Hat,Alberta,Oil & Gas,Stantec,30166125.03,2021-03-16,2022-04-01,In Progress,73.0,4.0,146.0,D. Kowalski,Yes
+AB-2023-0155,Highway Z155,Medicine Hat,Alberta,Commercial,Bird Construction,38313479.7,2023-12-27,2025-06-11,In Progress,127.5,12.0,27.0,T. Leblanc,Yes
+AB-2021-0105,Overpass B105,Lethbridge,Alberta,Residential,PCL Construction,7313299.61,2022-12-04,2024-05-12,In Progress,127.0,11.0,95.0,,
+AB-2023-0019,Facility T19,Calgary,Alberta,Industrial,Bird Construction,41342567.77,2022-05-27,2022-04-01,Cancelled,226.0,12.0,164.0,,
+AB-2023-0003,Pipeline D3,Grande Prairie,Alberta,Oil & Gas,Bird Construction,2205223.61,2021-05-03,2021-02-13,Completed,46.0,3.0,179.0,R. Sharma,Yes
+AB-2022-0126,Bridge W126,Red Deer,Alberta,Infrastructure,Ledcor Group,15049942.11,2023-06-15,2024-07-27,Completed,39.0,9.0,51.0,,Yes
+AB-2021-0125,Tower V125,Medicine Hat,Alberta,Commercial,Graham Construction,12188044.85,2021-02-06,2022-05-14,In Progress,127.5,3.0,126.0,M. Al-Farsi,No
+AB-2023-0147,Highway R147,Fort McMurray,Alberta,Commercial,Ledcor Group,42698297.86,2023-09-10,2025-12-17,Cancelled,26.0,8.0,71.0,R. Sharma,Yes
+AB-2023-0123,Tower T123,Medicine Hat,Alberta,Residential,EllisDon,32132917.69,2020-05-05,2021-12-26,Completed,97.0,0.0,113.0,A. Mehta,Yes
+AB-2022-0162,Overpass G162,Red Deer,Alberta,Commercial,Bird Construction,36308528.61,2022-10-01,2024-12-12,Completed,247.0,12.0,126.0,S. Benson,Yes
+AB-2021-0037,Plaza L37,Edmonton,Alberta,Oil & Gas,ATCO,35614726.22,2021-09-13,2022-08-10,Cancelled,163.0,11.0,53.0,M. Al-Farsi,Yes
+AB-2023-0119,Tower P119,Lethbridge,Alberta,Commercial,EllisDon,12139514.44,2023-02-12,2024-08-19,Completed,180.0,1.0,166.0,D. Kowalski,Yes
+AB-2021-0033,Pipeline H33,Fort McMurray,Alberta,Oil & Gas,Ledcor Group,8718880.6,2021-12-14,2022-09-25,Cancelled,130.0,0.0,56.0,,No
+AB-2020-0152,Highway W152,Red Deer,Alberta,Commercial,Ledcor Group,3241350.73,2023-05-25,2024-06-03,Completed,79.0,4.0,62.0,,Yes
+AB-2021-0129,Highway Z129,Grande Prairie,Alberta,Oil & Gas,PCL Construction,11283158.95,2022-03-21,2024-01-19,Completed,197.0,12.0,2.0,R. Sharma,Yes
+AB-2021-0049,Tower X49,Lethbridge,Alberta,Industrial,EllisDon,30057806.17,2023-05-22,2025-03-03,On Hold,81.0,6.0,116.0,S. Benson,No
+AB-2022-0006,Facility G6,Medicine Hat,Alberta,Oil & Gas,Fluor Canada,43702865.24,2020-11-24,2020-11-18,In Progress,33.0,2.0,67.0,T. Leblanc,
+AB-2020-0032,Facility G32,Fort McMurray,Alberta,Infrastructure,Bird Construction,4036830.98,2023-04-25,2024-10-20,On Hold,127.5,2.0,90.0,S. Benson,Yes
+AB-2020-0124,Bridge U124,Red Deer,Alberta,Residential,Graham Construction,25130778.7,2023-02-01,,Completed,226.0,4.0,21.0,M. Al-Farsi,
+AB-2021-0157,Bridge B157,Lethbridge,Alberta,Infrastructure,ATCO,30521674.46,2022-03-01,2023-08-18,In Progress,31.0,2.0,15.0,M. Al-Farsi,Yes
+AB-2020-0168,Depot M168,Calgary,Alberta,Industrial,Graham Construction,19623887.26,2020-02-11,2020-04-14,Completed,143.0,4.0,24.0,D. Kowalski,Yes
+AB-2021-0197,Plaza P197,Calgary,Alberta,Infrastructure,Stantec,43404850.7,2022-09-17,,In Progress,215.0,11.0,65.0,M. Al-Farsi,No
+AB-2023-0135,Pipeline F135,Red Deer,Alberta,Commercial,Stantec,27930537.55,2022-01-16,2022-04-27,Completed,131.0,7.0,113.0,,Yes
+AB-2020-0084,Bridge G84,Medicine Hat,Alberta,Infrastructure,Graham Construction,6553659.16,2023-01-05,2023-04-25,On Hold,150.0,0.0,115.0,A. Mehta,Yes
+AB-2022-0154,Plaza Y154,Medicine Hat,Alberta,Industrial,Ledcor Group,6535450.81,2022-02-02,2022-09-14,On Hold,196.0,1.0,163.0,,Yes
+AB-2022-0198,Bridge Q198,Medicine Hat,Alberta,Commercial,Fluor Canada,8697457.57,2022-02-25,2023-01-21,Completed,233.0,10.0,129.0,T. Leblanc,No
+AB-2023-0111,Highway H111,Medicine Hat,Alberta,Industrial,Bird Construction,33984199.04,2020-03-17,2021-04-27,Completed,158.0,5.0,36.0,M. Al-Farsi,Yes
+AB-2020-0080,Overpass C80,Edmonton,Alberta,Infrastructure,Bird Construction,28327324.77,2022-03-02,2023-09-11,In Progress,180.0,11.0,46.0,T. Leblanc,Yes
+AB-2020-0096,Facility S96,Fort McMurray,Alberta,Oil & Gas,Stantec,23010677.42,2023-12-19,,On Hold,111.0,12.0,176.0,D. Kowalski,No
+AB-2021-0189,Bridge H189,Edmonton,Alberta,Infrastructure,PCL Construction,22473596.98,2021-05-27,2023-04-12,On Hold,145.0,3.0,123.0,A. Mehta,No
+AB-2023-0047,Bridge V47,Grande Prairie,Alberta,Oil & Gas,ATCO,28261943.18,2023-09-02,2025-02-08,On Hold,196.0,1.0,180.0,R. Sharma,No
+AB-2022-0094,Overpass Q94,Medicine Hat,Alberta,Infrastructure,Ledcor Group,25727131.73,2021-06-18,2022-02-13,In Progress,216.0,10.0,32.0,R. Sharma,Yes
+AB-2023-0043,Tower R43,Fort McMurray,Alberta,Industrial,Fluor Canada,43795634.69,2021-12-06,2022-09-01,Completed,220.0,7.0,165.0,T. Leblanc,No
+AB-2022-0122,Tower S122,Edmonton,Alberta,Oil & Gas,Stantec,19753408.14,2020-06-20,2022-10-13,On Hold,127.5,7.0,91.0,,Yes
+AB-2023-0083,Pipeline F83,Grande Prairie,Alberta,Residential,PCL Construction,13409451.73,2023-10-23,2024-03-23,Cancelled,127.5,5.0,111.0,S. Benson,Yes
+AB-2021-0141,Pipeline L141,Grande Prairie,Alberta,Oil & Gas,Graham Construction,21917404.99,2022-11-25,2022-01-04,In Progress,36.0,2.0,0.0,,No
+AB-2022-0146,Pipeline Q146,Calgary,Alberta,Commercial,Fluor Canada,10962516.74,2020-09-01,2021-06-05,In Progress,98.0,2.0,18.0,D. Kowalski,Yes
+AB-2020-0160,Depot E160,Calgary,Alberta,Residential,EllisDon,18952681.73,2021-11-26,2023-01-13,On Hold,205.0,9.0,99.0,S. Benson,Yes
+AB-2023-0195,Overpass N195,Fort McMurray,Alberta,Residential,Bird Construction,17131896.02,2021-02-15,,Cancelled,35.0,11.0,26.0,,Yes
+AB-2022-0070,Highway S70,Blackfalds,Alberta,Oil & Gas,Bird Construction,21481961.9,2021-01-15,,Completed,68.0,7.0,156.0,T. Leblanc,Yes
+AB-2022-0054,Bridge C54,Blackfalds,Alberta,Infrastructure,ATCO,2183804.47,2020-05-16,2020-02-08,In Progress,99.0,11.0,138.0,,Yes
+AB-2021-0021,Plaza V21,Grande Prairie,Alberta,Industrial,PCL Construction,41446572.9,2022-11-28,2022-12-10,Completed,108.0,8.0,107.0,,Yes
+AB-2023-0179,Highway X179,Lethbridge,Alberta,Infrastructure,EllisDon,31965163.61,2022-07-13,2023-08-09,On Hold,216.0,9.0,130.0,A. Mehta,
+AB-2023-0183,Pipeline B183,Blackfalds,Alberta,Residential,Fluor Canada,28602693.95,2020-08-07,2022-02-28,Completed,18.0,2.0,51.0,A. Mehta,Yes
+AB-2023-0067,Bridge P67,Medicine Hat,Alberta,Residential,Bird Construction,18110174.26,2020-07-28,2021-12-11,In Progress,135.0,8.0,89.0,A. Mehta,Yes
+AB-2020-0024,Facility Y24,Lethbridge,Alberta,Commercial,Fluor Canada,11326542.84,2020-08-05,2021-11-17,Completed,198.0,9.0,129.0,,
+AB-2021-0029,Bridge D29,Calgary,Alberta,Residential,Bird Construction,1064043.78,2021-04-05,2022-11-04,In Progress,70.0,2.0,29.0,T. Leblanc,Yes
+AB-2020-0184,Depot C184,Red Deer,Alberta,Infrastructure,Graham Construction,22018000.93,2021-06-21,2021-01-15,In Progress,152.0,7.0,22.0,T. Leblanc,Yes
+AB-2021-0041,Tower P41,Medicine Hat,Alberta,Industrial,PCL Construction,18464411.99,2022-11-04,2022-06-14,On Hold,107.0,8.0,,R. Sharma,Yes
+AB-2023-0091,Highway N91,Red Deer,Alberta,Industrial,ATCO,9300432.16,2021-06-28,2023-06-24,On Hold,38.0,8.0,81.0,M. Al-Farsi,No
+AB-2021-0101,Highway X101,Lethbridge,Alberta,Commercial,Ledcor Group,14963669.01,2023-02-22,2023-01-18,In Progress,244.0,7.0,51.0,S. Benson,Yes
+AB-2022-0010,Depot K10,Medicine Hat,Alberta,Commercial,PCL Construction,19482645.53,2023-07-15,2025-01-22,Completed,108.0,12.0,63.0,M. Al-Farsi,No
+AB-2021-0149,Highway T149,Red Deer,Alberta,Residential,Graham Construction,15699724.98,2022-03-12,2022-12-25,Completed,202.0,5.0,69.0,R. Sharma,Yes
+AB-2023-0071,Overpass T71,Fort McMurray,Alberta,Industrial,ATCO,30598562.77,2020-11-21,,Completed,69.0,10.0,154.0,T. Leblanc,Yes
+AB-2022-0170,Facility O170,Blackfalds,Alberta,Industrial,EllisDon,24554052.41,2021-06-13,,Cancelled,62.0,9.0,,R. Sharma,Yes
+AB-2022-0102,Pipeline Y102,Calgary,Alberta,Residential,Bird Construction,32581827.87,2020-03-14,2020-01-27,Cancelled,196.0,4.0,2.0,S. Benson,Yes
+AB-2023-0063,Highway L63,Red Deer,Alberta,Infrastructure,EllisDon,15893400.42,2021-03-19,2023-07-03,Completed,28.0,3.0,116.0,A. Mehta,Yes
+AB-2023-0039,Bridge N39,Lethbridge,Alberta,Commercial,EllisDon,3352731.18,2021-05-20,2023-10-10,Cancelled,184.0,4.0,126.0,,Yes
+AB-2020-0108,Facility E108,Grande Prairie,Alberta,Residential,Ledcor Group,3245508.71,2023-01-10,2024-03-25,Completed,170.0,5.0,97.0,,Yes
+AB-2023-0079,Highway B79,Grande Prairie,Alberta,Commercial,ATCO,30119438.4,2022-02-17,2024-09-26,Completed,127.5,0.0,95.0,S. Benson,Yes
+AB-2021-0165,Tower J165,Medicine Hat,Alberta,Infrastructure,EllisDon,32838068.37,2023-10-02,2023-10-11,Completed,149.0,7.0,19.0,M. Al-Farsi,Yes
+AB-2021-0133,Tower D133,Grande Prairie,Alberta,Infrastructure,Bird Construction,11916549.79,2023-09-21,2024-10-13,Completed,95.0,9.0,172.0,S. Benson,Yes
+AB-2023-0167,Overpass L167,Medicine Hat,Alberta,Residential,Fluor Canada,26075788.77,2021-03-15,,On Hold,23.0,6.0,19.0,R. Sharma,Yes
+AB-2023-0163,Depot H163,Calgary,Alberta,Residential,Ledcor Group,9963581.03,2023-01-11,2025-04-26,Completed,210.0,5.0,,T. Leblanc,Yes
+AB-2021-0145,Overpass P145,Medicine Hat,Alberta,Infrastructure,Graham Construction,29061232.48,2021-09-20,2023-12-20,Completed,127.5,4.0,155.0,M. Al-Farsi,Yes
+AB-2020-0164,Bridge I164,Grande Prairie,Alberta,Residential,Stantec,29846958.94,2020-06-10,2021-03-06,Cancelled,250.0,5.0,143.0,A. Mehta,No
+AB-2020-0120,Facility Q120,Medicine Hat,Alberta,Industrial,Fluor Canada,573840.24,2021-02-16,2022-11-26,In Progress,234.0,0.0,177.0,,Yes
+AB-2021-0085,Depot H85,Edmonton,Alberta,Oil & Gas,Graham Construction,18001826.96,2022-04-04,2022-12-06,Cancelled,35.0,4.0,54.0,S. Benson,No
+AB-2022-0002,Pipeline C2,Calgary,Alberta,Commercial,ATCO,7123255.57,2022-02-03,2023-02-12,Completed,16.0,8.0,96.0,R. Sharma,
+AB-2022-0066,Overpass O66,Edmonton,Alberta,Industrial,Ledcor Group,20769978.13,2020-06-19,2021-10-13,Cancelled,108.0,0.0,158.0,,Yes
+AB-2022-0194,Bridge M194,Medicine Hat,Alberta,Commercial,Fluor Canada,30481856.24,2023-03-27,,In Progress,125.0,2.0,125.0,A. Mehta,No
+AB-2022-0034,Pipeline I34,Grande Prairie,Alberta,Industrial,Stantec,33605204.34,2022-06-23,2023-05-10,Completed,85.0,8.0,176.0,T. Leblanc,No
+AB-2020-0068,Plaza Q68,Edmonton,Alberta,Commercial,EllisDon,27167594.49,2020-03-25,2022-08-15,In Progress,179.0,9.0,159.0,A. Mehta,Yes
+AB-2020-0072,Bridge U72,Red Deer,Alberta,Infrastructure,EllisDon,31476826.33,2023-03-20,2025-02-10,Completed,213.0,11.0,175.0,R. Sharma,Yes
+AB-2022-0110,Facility G110,Lethbridge,Alberta,Commercial,Fluor Canada,12512890.29,2020-01-26,2022-07-20,Completed,22.0,0.0,172.0,D. Kowalski,No
+AB-2023-0011,Depot L11,Red Deer,Alberta,Industrial,Graham Construction,11353819.19,2020-08-26,2022-02-02,Completed,28.0,3.0,124.0,,No
+AB-2021-0097,Pipeline T97,Lethbridge,Alberta,Residential,Fluor Canada,28361782.07,2023-03-27,2025-04-02,Completed,9.0,6.0,176.0,M. Al-Farsi,Yes
+AB-2020-0132,Facility C132,Blackfalds,Alberta,Commercial,ATCO,8509453.6,2023-07-01,2025-10-07,Cancelled,185.0,4.0,16.0,R. Sharma,
+AB-2021-0045,Pipeline T45,Fort McMurray,Alberta,Oil & Gas,Fluor Canada,20177650.58,2023-06-11,2025-09-13,On Hold,183.0,6.0,105.0,D. Kowalski,Yes
+AB-2020-0048,Tower W48,Fort McMurray,Alberta,Residential,Ledcor Group,2666947.38,2022-06-14,2022-04-17,Completed,48.0,9.0,158.0,M. Al-Farsi,No
+AB-2020-0020,Overpass U20,Calgary,Alberta,Residential,EllisDon,43319664.06,2022-01-04,2024-07-12,On Hold,135.0,9.0,11.0,,Yes
+AB-2022-0046,Depot U46,Medicine Hat,Alberta,Industrial,Graham Construction,1810329.57,2022-02-28,2023-02-17,Completed,109.0,2.0,67.0,A. Mehta,Yes
+AB-2023-0115,Plaza L115,Grande Prairie,Alberta,Infrastructure,ATCO,29245152.1,2022-05-12,,Completed,219.0,3.0,105.0,D. Kowalski,No
+AB-2022-0186,Tower E186,Edmonton,Alberta,Industrial,EllisDon,37099395.76,2022-05-15,2024-09-20,Cancelled,39.0,7.0,48.0,T. Leblanc,Yes
+AB-2022-0050,Facility Y50,Blackfalds,Alberta,Residential,Bird Construction,16249318.22,2022-12-10,2022-11-13,Completed,204.0,0.0,127.0,S. Benson,No
+AB-2023-0051,Overpass Z51,Lethbridge,Alberta,Commercial,EllisDon,32483637.69,2021-11-04,2023-11-02,Cancelled,127.5,2.0,75.0,A. Mehta,Yes
+AB-2020-0140,Pipeline K140,Grande Prairie,Alberta,Industrial,Fluor Canada,260917.87,2020-12-15,2022-11-23,Completed,106.0,6.0,126.0,S. Benson,Yes
+AB-2023-0151,Depot V151,Grande Prairie,Alberta,Industrial,Graham Construction,43221345.22,2020-09-26,2022-12-21,On Hold,239.0,4.0,146.0,A. Mehta,Yes
+AB-2023-0095,Overpass R95,Grande Prairie,Alberta,Oil & Gas,Stantec,9077745.99,2023-09-02,2023-01-05,In Progress,121.0,8.0,156.0,A. Mehta,Yes
+AB-2020-0176,Overpass U176,Calgary,Alberta,Oil & Gas,Graham Construction,31974187.52,2023-03-25,2025-10-01,In Progress,19.0,7.0,,A. Mehta,No
+AB-2022-0114,Facility K114,Calgary,Alberta,Residential,Bird Construction,26503128.44,2021-08-07,2022-05-01,In Progress,35.0,12.0,62.0,M. Al-Farsi,Yes
+AB-2020-0196,Highway O196,Calgary,Alberta,Residential,EllisDon,25370615.86,2023-06-12,2023-04-28,Completed,158.0,10.0,115.0,R. Sharma,Yes
+AB-2022-0190,Highway I190,Calgary,Alberta,Residential,PCL Construction,30155633.58,2021-02-25,2023-02-24,On Hold,121.0,4.0,12.0,R. Sharma,Yes
+AB-2023-0199,Highway R199,Calgary,Alberta,Oil & Gas,ATCO,21809498.56,2021-12-19,2021-12-27,Cancelled,160.0,8.0,107.0,M. Al-Farsi,Yes
+AB-2022-0142,Tower M142,Fort McMurray,Alberta,Commercial,EllisDon,16315526.95,2020-06-22,2022-03-02,On Hold,198.0,10.0,24.0,D. Kowalski,No
+AB-2023-0107,Depot D107,Edmonton,Alberta,Oil & Gas,Fluor Canada,20486438.66,2023-08-19,2023-09-15,On Hold,106.0,0.0,148.0,R. Sharma,Yes
+AB-2022-0178,Highway W178,Medicine Hat,Alberta,Residential,Graham Construction,35125381.56,2021-04-21,2021-11-07,Cancelled,226.0,12.0,121.0,T. Leblanc,Yes
+AB-2021-0013,Highway N13,Grande Prairie,Alberta,Residential,Ledcor Group,22702839.67,2021-01-17,2021-03-03,Completed,108.0,9.0,152.0,D. Kowalski,Yes
+AB-2023-0131,Depot B131,Grande Prairie,Alberta,Industrial,PCL Construction,31399832.46,2022-02-10,,On Hold,178.0,11.0,44.0,T. Leblanc,Yes
+AB-2021-0061,Facility J61,Edmonton,Alberta,Infrastructure,Graham Construction,26452958.96,2022-11-04,2023-06-28,In Progress,239.0,4.0,90.0,R. Sharma,
+AB-2020-0100,Overpass W100,Red Deer,Alberta,Infrastructure,Ledcor Group,32179236.74,2022-08-21,2023-12-16,In Progress,243.0,4.0,157.0,M. Al-Farsi,No
+AB-2023-0187,Highway F187,Lethbridge,Alberta,Commercial,Graham Construction,1132810.25,2021-02-12,,Completed,141.0,9.0,169.0,R. Sharma,Yes
+AB-2022-0166,Overpass K166,Red Deer,Alberta,Residential,Stantec,12044777.96,2021-12-03,2022-05-26,Completed,127.5,6.0,105.0,,Yes
+AB-2022-0058,Bridge G58,Edmonton,Alberta,Industrial,Fluor Canada,23168722.4,2020-08-17,2020-10-02,In Progress,82.0,0.0,,,Yes
+AB-2022-0158,Plaza C158,Medicine Hat,Alberta,Infrastructure,PCL Construction,11758106.26,2020-01-03,2020-11-15,Completed,217.0,1.0,,,Yes
+AB-2023-0027,Facility B27,Medicine Hat,Alberta,Oil & Gas,Bird Construction,12391148.73,2023-01-13,2024-11-22,Completed,124.0,9.0,100.0,D. Kowalski,Yes
+AB-2020-0116,Tower M116,Calgary,Alberta,Infrastructure,ATCO,8949201.46,2021-07-19,2021-08-18,Completed,200.0,11.0,125.0,,Yes
+AB-2020-0092,Bridge O92,Fort McMurray,Alberta,Industrial,Bird Construction,2419647.34,2023-10-14,2023-03-27,Completed,53.0,7.0,119.0,,Yes
+AB-2021-0009,Overpass J9,Calgary,Alberta,Oil & Gas,Bird Construction,472509.13,2020-04-03,2020-06-03,On Hold,59.0,11.0,146.0,,No
+AB-2021-0053,Overpass B53,Edmonton,Alberta,Industrial,Ledcor Group,5692954.84,2022-11-24,2024-05-19,Completed,32.0,7.0,,A. Mehta,No
+AB-2020-0076,Bridge Y76,Fort McMurray,Alberta,Residential,Graham Construction,40752983.47,2021-07-03,2021-08-12,Cancelled,127.5,3.0,20.0,A. Mehta,No
+AB-2021-0177,Pipeline V177,Grande Prairie,Alberta,Industrial,ATCO,5705697.72,2020-04-12,2021-10-15,In Progress,146.0,2.0,66.0,R. Sharma,Yes
+AB-2020-0016,Pipeline Q16,Edmonton,Alberta,Residential,Graham Construction,27276617.74,2022-04-22,2024-05-17,In Progress,127.5,4.0,,A. Mehta,Yes
+AB-2020-0200,Facility S200,Grande Prairie,Alberta,Infrastructure,Fluor Canada,6347373.25,2022-12-18,2023-12-24,Completed,58.0,4.0,172.0,T. Leblanc,Yes
+AB-2021-0065,Depot N65,Fort McMurray,Alberta,Residential,Bird Construction,27029724.32,2020-04-10,2020-03-25,On Hold,132.0,2.0,136.0,M. Al-Farsi,
+AB-2023-0175,Overpass T175,Calgary,Alberta,Infrastructure,EllisDon,37951668.6,2020-04-05,2021-12-15,On Hold,111.0,1.0,54.0,,No
+AB-2022-0042,Pipeline Q42,Grande Prairie,Alberta,Residential,ATCO,37147985.07,2020-11-28,,Completed,198.0,7.0,52.0,S. Benson,
+AB-2021-0193,Facility L193,Grande Prairie,Alberta,Oil & Gas,Ledcor Group,39615768.56,2021-08-16,,On Hold,8.0,10.0,147.0,M. Al-Farsi,Yes
+AB-2021-0069,Tower R69,Blackfalds,Alberta,Residential,Fluor Canada,13731496.52,2022-10-02,2023-09-03,Cancelled,127.5,4.0,23.0,,No
+AB-2020-0052,Tower A52,Lethbridge,Alberta,Commercial,Stantec,41119890.81,2021-05-27,2022-05-24,In Progress,24.0,3.0,172.0,,
+AB-2023-0015,Pipeline P15,Red Deer,Alberta,Infrastructure,PCL Construction,16723289.93,2021-08-27,2023-12-10,In Progress,7.0,8.0,169.0,R. Sharma,Yes
+AB-2020-0172,Depot Q172,Red Deer,Alberta,Commercial,Bird Construction,5809442.04,2023-02-22,2024-04-27,In Progress,86.0,12.0,,,
+AB-2022-0014,Facility O14,Grande Prairie,Alberta,Infrastructure,Bird Construction,14241146.25,2022-07-05,2024-11-10,In Progress,7.0,9.0,18.0,M. Al-Farsi,
+AB-2022-0038,Bridge M38,Red Deer,Alberta,Commercial,Graham Construction,7170487.8,2023-08-23,,On Hold,184.0,1.0,67.0,M. Al-Farsi,Yes
+AB-2022-0098,Depot U98,Calgary,Alberta,Commercial,Bird Construction,44915810.65,2023-09-13,2024-03-15,On Hold,178.0,11.0,177.0,S. Benson,No
+AB-2023-0007,Bridge H7,Fort McMurray,Alberta,Oil & Gas,Bird Construction,34348609.38,2020-10-11,2021-01-04,In Progress,66.0,0.0,20.0,R. Sharma,No
+AB-2020-0028,Facility C28,Red Deer,Alberta,Industrial,Graham Construction,17152808.31,2021-08-11,2022-07-09,In Progress,218.0,0.0,13.0,A. Mehta,No
+AB-2022-0134,Tower E134,Grande Prairie,Alberta,Residential,Bird Construction,8359546.65,2021-09-13,2022-10-05,Cancelled,167.0,10.0,44.0,T. Leblanc,No
+AB-2020-0004,Plaza E4,Red Deer,Alberta,Industrial,ATCO,41653794.41,2021-11-11,,On Hold,21.0,9.0,80.0,M. Al-Farsi,No
+AB-2021-0109,Facility F109,Edmonton,Alberta,Oil & Gas,Graham Construction,15747479.44,2021-09-13,2023-03-24,In Progress,127.5,0.0,172.0,,
+AB-2022-0074,Facility W74,Red Deer,Alberta,Commercial,Graham Construction,34733736.95,2021-12-15,2021-07-12,In Progress,161.0,11.0,59.0,M. Al-Farsi,Yes
+AB-2021-0137,Highway H137,Blackfalds,Alberta,Oil & Gas,Bird Construction,4743377.28,2021-05-28,2021-08-09,In Progress,226.0,12.0,53.0,A. Mehta,Yes
+AB-2020-0192,Facility K192,Medicine Hat,Alberta,Industrial,EllisDon,31092124.04,2023-07-21,2023-02-05,Completed,221.0,6.0,123.0,,Yes
+AB-2021-0173,Facility R173,Grande Prairie,Alberta,Infrastructure,Fluor Canada,704516.31,2023-02-14,2023-03-19,In Progress,30.0,9.0,73.0,A. Mehta,Yes
